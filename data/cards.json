@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "步兵",
+    "cost": 1,
+    "type": "unit",
+    "subType": "infantry",
+    "attack": 2,
+    "defense": 2
+  },
+  {
+    "id": 2,
+    "name": "轻装甲",
+    "cost": 2,
+    "type": "unit",
+    "subType": "lightArmor",
+    "attack": 3,
+    "defense": 3
+  },
+  {
+    "id": 3,
+    "name": "战舰",
+    "cost": 3,
+    "type": "unit",
+    "subType": "warship",
+    "attack": 4,
+    "defense": 4
+  },
+  {
+    "id": 4,
+    "name": "防线墙",
+    "cost": 2,
+    "type": "defense",
+    "defense": 5
+  },
+  {
+    "id": 5,
+    "name": "远程炮",
+    "cost": 3,
+    "type": "weapon",
+    "attack": 2
+  }
+]
